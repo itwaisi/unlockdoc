@@ -14,3 +14,6 @@
 - update `.gitignore`
 - create `CHANGELOG.md`
 - create `README.md`
+- rename `unlockdoc.main` to `unlockdoc.unlockdoc`
+- update `unlockdoc.__init__`
+- create `main.py` to test
